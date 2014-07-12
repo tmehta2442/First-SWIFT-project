@@ -1,0 +1,1 @@
+Learning some of Apple's SWIFT. This is a crazy simple, and thus awesome, TODO app. Enjoy ;)
